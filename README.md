@@ -11,12 +11,12 @@ Configuração fácil via arquivo .env
 #Crie o arquivo .env com:
 
 env
-EMAIL_HOST=smtp.gmail.com
-EMAIL_PORT=587
-EMAIL_USER=seuemail@gmail.com
-EMAIL_PASS=sua_app_password
-EMAIL_FROM=seuemail@gmail.com
-EMAIL_TO=destinatario@exemplo.com
+EMAIL_HOST=smtp.gmail.com<br>
+EMAIL_PORT=587<br>
+EMAIL_USER=seuemail@gmail.com<br>
+EMAIL_PASS=sua_app_password<br>
+EMAIL_FROM=seuemail@gmail.com<br>
+EMAIL_TO=destinatario@exemplo.com<br>
 
 
 #Como Usar

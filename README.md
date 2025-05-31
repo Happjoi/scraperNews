@@ -1,4 +1,4 @@
-# ScraperNews & Email Sender
+# ScraperNews 
 Um projeto backend simples que coleta notícias de sites e envia as manchetes por e-mail usando Node.js.
 
 ## Funcionalidades

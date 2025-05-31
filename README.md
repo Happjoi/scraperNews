@@ -1,14 +1,14 @@
 ## ScraperNews & Email Sender
 Um projeto backend simples que coleta notícias de sites e envia as manchetes por e-mail usando Node.js.
 
-#Funcionalidades
+# Funcionalidades
 Coleta manchetes de notícias em tempo real
 
 Envia e-mails com as últimas notícias formatadas
 
 Configuração fácil via arquivo .env
 
-#Crie o arquivo .env com:
+# Crie o arquivo .env com:
 
 EMAIL_HOST=smtp.gmail.com<br>
 EMAIL_PORT=587<br>
@@ -18,7 +18,7 @@ EMAIL_FROM=seuemail@gmail.com<br>
 EMAIL_TO=destinatario@exemplo.com<br>
 
 
-#Como Usar
+# Como Usar
 Execute o comando:
 npm start
 
@@ -28,7 +28,7 @@ Coletar as últimas manchetes do site configurado
 
 Enviar um e-mail com as notícias para o destinatário
 
-#Personalização
+# Personalização
 
 Ajustar quantidade: Modifique slice(0, 10) em scraperService.js
 

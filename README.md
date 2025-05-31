@@ -10,7 +10,6 @@ Configuração fácil via arquivo .env
 
 #Crie o arquivo .env com:
 
-env
 EMAIL_HOST=smtp.gmail.com<br>
 EMAIL_PORT=587<br>
 EMAIL_USER=seuemail@gmail.com<br>
